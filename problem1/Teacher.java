@@ -4,6 +4,8 @@
  * 2024 11 21
  */
 
+ package problem1;
+
 public class Teacher extends Person {
     private String subject; // Teacher's subject
     private double salary; // Teacher's salary

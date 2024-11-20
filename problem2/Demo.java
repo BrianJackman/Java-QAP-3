@@ -4,6 +4,8 @@
  * 2024-11-21
  */
 
+ package problem2;
+
 public class Demo {
     public static void main(String[] args) {
         Point point = new Point(1.0f, 2.0f);

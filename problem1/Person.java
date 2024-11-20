@@ -4,6 +4,8 @@
  * 2024 11 21
  */
 
+ package problem1;
+
 public class Person {
     protected String myName; // person's name
     protected int myAge; // person’s age

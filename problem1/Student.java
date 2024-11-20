@@ -4,6 +4,8 @@
  * 2024 11 21
  */
 
+ package problem1;
+
 public class Student extends Person {
     protected String myIdNum; // Student Id Number
     protected double myGPA; // Student GPA

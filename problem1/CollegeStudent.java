@@ -4,6 +4,7 @@
  * 2024-11-21
  */
 
+package problem1;
 
 public class CollegeStudent extends Student {
     private String major; // Major of the college student
@@ -14,7 +15,7 @@ public class CollegeStudent extends Student {
      * 
      * @param name   student's name
      * @param age    student's age
-     * @param gender student'sgender 
+     * @param gender student'sgender
      * @param idNum  student's ID
      * @param gpa    student's GPA
      * @param year   current year
